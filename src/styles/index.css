@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.montserrat-font {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+:root{
+    font-family: 'Montserrat', 'Courier New', Courier, monospace;
+}
+
+.debbug{
+    border: red dotted 3px;
+}
